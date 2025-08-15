@@ -1,58 +1,60 @@
-# Appyn WordPress Theme – Premium App Listing & Review Theme
+# Appyn WordPress Theme – Premium Blogger’s Theme for App Sites
 
-**Appyn WordPress Theme** is a specialized template designed for creating app listing, software review, and download websites. It offers built-in features for organizing app details, generating SEO-friendly pages, and providing users with a smooth browsing experience.
+**Appyn WordPress Theme** is a professional, responsive, and SEO-optimized theme designed specifically for creating app directories, software review websites, and download portals. With its unique features tailored for application-focused content, Appyn allows you to build a fast, clean, and user-friendly platform.
 
 ---
 
 ## Overview
 
-Appyn is crafted for technology bloggers, app reviewers, and software directories. It simplifies the process of adding applications, includes automatic content generation from app stores, and supports multi-language sites. The theme is lightweight, fast, and easy to customize.
+Appyn is widely known among WordPress developers and bloggers as one of the top themes for building **application and software catalog sites**. It offers a built-in system to easily add app details, versions, changelogs, and download buttons without requiring complex plugins.  
+Optimized for speed and SEO, Appyn ensures your app listings rank higher and load faster.
 
 ---
 
 ## Key Features of Appyn WordPress Theme
 
-- Pre-optimized for SEO and high performance.  
-- Built-in system to fetch app data automatically.  
-- Supports Google Play Store integration.  
-- Mobile-friendly and responsive design.  
-- Easy-to-use theme options panel.  
-- Clean code and fast loading speed.  
-- Multi-language ready.  
+- Pre-built templates for app listings & download pages  
+- Fully responsive and mobile-friendly design  
+- Built-in app version, changelog, and download link system  
+- Lightweight and optimized for fast loading times  
+- Multi-language & RTL support  
+- Clean, ad-ready layout for better monetization  
+- Easy customization via WordPress Customizer  
+- Compatible with the latest WordPress version  
 
 ---
 
 ## Technical Details
 
-| Feature              | Description |
-|----------------------|-------------|
-| **Version**          | Latest 2025 Release |
-| **Type**             | WordPress Theme |
-| **Category**         | App Listing / Review |
-| **Responsive**       | Yes |
-| **SEO Optimized**    | Yes |
-| **Developer**        | Themespixel |
-| **License**          | GPL |
-| **File Format**      | ZIP |
+| Feature                | Description |
+|------------------------|-------------|
+| **Theme Type**         | Premium WordPress Theme |
+| **Latest Version**     | 2025 Release |
+| **Developer**          | TemplatesYard |
+| **Responsive Design**  | Yes |
+| **SEO Optimized**      | Yes |
+| **Languages Supported**| Multi-language & RTL |
+| **File Format**        | ZIP |
+| **Compatibility**      | WordPress 5.0+ |
 
 ---
 
 ## Screenshots
 
 <p align="center">
-  <img src="https://themespixel.net/wp-content/uploads/2019/01/screen-appyn.png" alt="Appyn WordPress Theme Screenshot" width="750px">
+  <img src="https://themespixel.net/wp-content/uploads/2019/01/screen-appyn.png" alt="Appyn WordPress Theme Screenshot" style="width:800px;">
 </p>
 
 ---
 
 ## Download Appyn WordPress Theme
 
-> This theme is provided for educational and testing purposes only.  
-> Support the developer by purchasing the official version.
+> ⚠️ This theme is provided for **educational and testing purposes only**.  
+> Please support the official developer by purchasing a licensed copy from the [official TemplatesYard website](https://templatesyard.com/).
 
 <p align="center">
   <a href="https://nulledthemeslibrary.com/appyn-wordpress-theme/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇%20Download-WoodMart%20Theme-blue?style=for-the-badge&logo=wordpress" alt="Download Appyn Theme" style="width:60px; height:auto;">
+    <img src="https://img.shields.io/badge/⬇%20Download-WoodMart%20Theme-blue?style=for-the-badge&logo=wordpress" alt="Download Appyn WordPress Theme" style="height:60px;">
   </a>
 </p>
 
@@ -60,29 +62,30 @@ Appyn is crafted for technology bloggers, app reviewers, and software directorie
 
 ## How to Install
 
-1. Download the Appyn Theme from the button above.  
-2. Extract the ZIP file.  
-3. Upload it to your WordPress site via **Appearance > Themes > Add New**.  
-4. Activate the theme and configure settings in the options panel.
+1. Download the **Appyn WordPress Theme** ZIP file.  
+2. Go to your WordPress Dashboard → Appearance → Themes → Add New.  
+3. Click **Upload Theme** and select the ZIP file.  
+4. Install and activate the theme.  
+5. Configure theme settings in the WordPress Customizer.
 
 ---
 
 ## System Requirements
 
-- WordPress 5.5 or higher  
+- WordPress 5.0 or higher  
 - PHP 7.4 or higher  
-- MySQL 5.6 or higher  
-- Compatible with major browsers
+- MySQL 5.6 or higher / MariaDB 10.1+  
+- Recommended memory limit: 128MB+  
 
 ---
 
 ## SEO Keywords
 
-`Appyn WordPress Theme`, `App Listing WordPress Theme`, `App Review Theme`, `Google Play Store Theme`, `Technology Blog WordPress Theme`, `Software Directory Theme`, `Best App Listing Theme 2025`
+`Appyn WordPress Theme`, `Appyn Theme Free Download`, `Appyn Latest Version`, `Best WordPress Theme for App Sites`, `Appyn TemplatesYard Theme`, `Premium App Directory Theme`, `Responsive App Listing Theme`  
 
 ---
 
 ## Disclaimer
 
-This repository is for educational purposes only.  
-If you like Appyn Theme, buy the official license from the developer to support future updates.
+This repository is for **educational purposes** only.  
+If you enjoy using the Appyn WordPress Theme, please purchase the official license to support the developer.
